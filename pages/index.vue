@@ -1,6 +1,6 @@
 <template>
   <h1>Index page</h1>
-  <ul>
+  <ul class="text-rose-500">
     <li>
       <NuxtLink to="/spa">SPA</NuxtLink>
     </li>
